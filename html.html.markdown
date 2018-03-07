@@ -118,3 +118,4 @@ HTML is written in files ending with `.html` or `.htm`. The mime type is `text/h
 * [wikipedia](https://en.wikipedia.org/wiki/HTML)
 * [HTML tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3School](http://www.w3schools.com/html/html_intro.asp)
+* [Code The Web](https://codetheweb.blog/learn/html)
